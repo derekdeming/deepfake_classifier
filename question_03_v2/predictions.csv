@@ -1,0 +1,23 @@
+Image Name,Prediction Value,Classification
+001.jpg,0.6343674,fake
+002.jpg,0.69916546,fake
+003.jpg,0.19931486,real
+004.jpg,0.6311373,fake
+005.jpg,0.4552487,real
+006.jpg,0.45008972,real
+007.jpg,0.46720803,real
+008.png,0.5055908,fake
+009.jpg,0.5592758,fake
+010.jpg,0.44342336,real
+011.png,0.39975643,real
+012.jpg,0.4262076,real
+013.jpg,0.5058484,fake
+014.jpg,0.27468914,real
+015.jpg,0.2475074,real
+016.jpg,0.32643613,real
+017.jpg,0.40825078,real
+018.jpg,0.6343674,fake
+019.jpg,0.6311373,fake
+020.jpg,0.5468844,fake
+021.jpg,0.5468844,fake
+022.jpg,0.61077976,fake
