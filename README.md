@@ -41,7 +41,7 @@ Technical interview for Reality Defenders - Data Engineer Take Home
 + modeling_2.ipynb - code used for the question 
 + predictions.csv - this is the predictions for the model on the dataset provided by RD
 
-####**Question_04**: 
+#### **Question_04**: 
 1. Contains the following: 
 + explanation.md
 
