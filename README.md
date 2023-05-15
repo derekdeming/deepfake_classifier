@@ -1,4 +1,4 @@
-# RD-Data-Takehome-Derek--Deming
+# RD-Data-Takehome-Derek-Deming
 Technical interview for Reality Defenders - Data Engineer Take Home 
 
 ### Instructions:
@@ -12,7 +12,7 @@ Technical interview for Reality Defenders - Data Engineer Take Home
 + markdown file - This contains explanations to the questions. Some questions will have both a ipynb and markdown to explain both. 
 + dataset folder - This folder contains the subset of images used for the project 
 
-4. Run through each question in sequential order to run from end-to-end
+4. Run through each question folder in sequential order to run from end-to-end
 
 ### Explanation of each folder: 
 **Question_01**: 
@@ -41,9 +41,9 @@ Technical interview for Reality Defenders - Data Engineer Take Home
 + modeling_2.ipynb - code used for the question 
 + predictions.csv - this is the predictions for the model on the dataset provided by RD
 
-#### **Question_04**: 
+**Question_04**: 
 1. Contains the following: 
 + explanation.md
 
 
-**
+
