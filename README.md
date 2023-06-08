@@ -1,5 +1,4 @@
-# RD-Data-Takehome-Derek-Deming
-Technical interview for Reality Defenders - Data Engineer Take Home 
+# RD-Data-
 
 ### Instructions:
 1. Install the required libraries using pip:
